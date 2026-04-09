@@ -12,7 +12,7 @@ This is a project to write "hitchhiker's guides" to anything at all, provided it
 
 I am a very accepting individual, but I use my best judgment in deciding what I don't want.
 
-If you want to create your own repository of hitchhiker's guides, you can clone this one and link to it
+If you don't like that I reject your guide topics, you can clone this one and link to it.
 
 ## Why did you say that about DNA? Do you hate British people?
 
